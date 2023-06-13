@@ -20,3 +20,6 @@ formula ((Winner + Forced Errors)-unforced errors)
 serve percentage multiplied by the decimal of first serve win percentage.
 9. Develop a manual input interface for the women's tennis team manager to update stats and CSV real time as the season progresses. The goal is to create snapshots of trends as
 the season progresses.
+
+# Detail for the whole project:
+https://github.com/peijiawu95/NCSU-Women-Tennis-Visualization-Project/edit/main/README.md#:~:text=visualization_project.-,pdf,-Documentation%C2%A0%E2%80%A2%C2%A0Share
