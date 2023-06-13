@@ -22,4 +22,4 @@ serve percentage multiplied by the decimal of first serve win percentage.
 the season progresses.
 
 # Detail for the whole project:
-https://github.com/peijiawu95/NCSU-Women-Tennis-Visualization-Project/edit/main/README.md#:~:text=visualization_project.-,pdf,-Documentation%C2%A0%E2%80%A2%C2%A0Share
+https://github.com/peijiawu95/NCSU-Women-Tennis-Visualization-Project/blob/b422bab1ba55a03e5ce8703ca91fd345ee1093fa/visualization_project.pdf
